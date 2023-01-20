@@ -31,12 +31,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 - 🌱 I’m currently learning:
   [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://www.guxiaobiao.top/)
 
-
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
-
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
-
 
 
 #### Frontend
