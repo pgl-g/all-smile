@@ -1,6 +1,6 @@
 <!-- <link rel="stylesheet" type="text/css" href="./beautiful.css"> -->
 
-### _Hi there 👋, I'm PGL._
+###  I'm PGL👋
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
