@@ -2,7 +2,7 @@
 
 ###  I'm PGL👋
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+Tools
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://www.guxiaobiao.top/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://www.guxiaobiao.top/)
@@ -14,16 +14,12 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://www.guxiaobiao.top/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://www.guxiaobiao.top/)
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://www.guxiaobiao.top/)
-
-- 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://www.guxiaobiao.top/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://www.guxiaobiao.top/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://www.guxiaobiao.top/)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://www.guxiaobiao.top/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://www.guxiaobiao.top/)
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://www.guxiaobiao.top/)
-
-- ⚙️ I also use and work:
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://www.guxiaobiao.top/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://www.guxiaobiao.top/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://www.guxiaobiao.top/)
